@@ -197,14 +197,14 @@ footer{
 #m-name{
     border-bottom:2px solid #f1f1ef;
     border-width:fit-content;
-    font-size:0.5rem;
+    font-size:0.5rem !important;
 }
 #authorization{
     border-bottom:2px solid #f1f1ef;
     border-width:fit-content;
 }
 .line{
-    max-width:95%;
+    max-width:90%;
     margin-left:auto;
     margin-right:auto;
     height:2px;

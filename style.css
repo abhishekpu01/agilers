@@ -190,7 +190,15 @@ footer{
     color:#f1f1ef;
     font-size:0.5rem;
 }
-.agr{
+#agr{
+    border-bottom:2px solid #f1f1ef;
+    border-width:fit-content;
+}
+#m-name{
+    border-bottom:2px solid #f1f1ef;
+    border-width:fit-content;
+}
+#authorization{
     border-bottom:2px solid #f1f1ef;
     border-width:fit-content;
 }

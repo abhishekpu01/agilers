@@ -171,7 +171,7 @@ footer{
     color:#f1f1ef;
 }
 .footer-head{
-    font-size:0.7rem;
+    font-size:1rem;
     color:#f1f1ef;
     text-align:center;
 }
@@ -188,20 +188,7 @@ footer{
 .footer-list-1 li a{
     text-decoration:none;
     color:#f1f1ef;
-    font-size:0.5rem;
-}
-#agr{
-    border-bottom:2px solid #f1f1ef;
-    border-width:fit-content;
-}
-#m-name{
-    border-bottom:2px solid #f1f1ef;
-    border-width:fit-content;
-    font-size:0.5rem !important;
-}
-#authorization{
-    border-bottom:2px solid #f1f1ef;
-    border-width:fit-content;
+    font-size:0.8rem;
 }
 .line{
     max-width:90%;

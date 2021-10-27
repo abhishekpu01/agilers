@@ -189,9 +189,17 @@ footer{
     color:#f1f1ef;
     font-size:0.5rem;
 }
-#agr{
-    border-bottom:3px solid white;
+.agr{
+    border-bottom:3px solid #f1f1ef;
     border-width:fit-content;
+}
+.line{
+    max-width:95%;
+    margin-left::auto;
+    margin-right::auto;
+    height:4px;
+    background-color:#f1f1ef;
+    margin-top:12px;
 }
 /*Responsive Designing*/
 @media screen and (max-width: 1311.5px){

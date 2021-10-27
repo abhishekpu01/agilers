@@ -134,7 +134,6 @@ a {
     background-color:#819fa7;
     cursor:pointer;
     transition: all  ease-in-out; 
-    height:80vh;
 }
 .card:hover { 
     transform: scale(1.02);
@@ -216,7 +215,6 @@ footer{
     }
     .card{
         width:70%;
-        height:85vh;
     }
     .card-img{
         max-height:45vh;

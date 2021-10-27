@@ -134,7 +134,6 @@ a {
     background-color:#819fa7;
     cursor:pointer;
     transition: all  ease-in-out; 
-    height: 70vh;
 }
 .card:hover { 
     transform: scale(1.02);

@@ -176,12 +176,12 @@ footer{
 }
 .footer-section{
     max-width:95%;
-    margin-left::auto;
-    margin-right::auto;
+    margin-left:auto;
+    margin-right:auto;
     display:flex;
     justify-content:space-between;
 }
-.footer-list-1 li {
+.footer-list-1{
     list-style-type::none;
 }
 .footer-list-1 li a{
@@ -190,14 +190,14 @@ footer{
     font-size:0.5rem;
 }
 .agr{
-    border-bottom:3px solid #f1f1ef;
+    border-bottom:2px solid #f1f1ef;
     border-width:fit-content;
 }
 .line{
     max-width:95%;
-    margin-left::auto;
-    margin-right::auto;
-    height:4px;
+    margin-left:auto;
+    margin-right:auto;
+    height:2px;
     background-color:#f1f1ef;
     margin-top:12px;
 }

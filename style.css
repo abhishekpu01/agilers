@@ -58,7 +58,6 @@ html,body{
     justify-content:space-between;
     align-items: center;
     width:95%;
-    position:fixed;
 }
 .logo{
     font-size:1.5rem;
@@ -167,12 +166,32 @@ a {
 footer{
     width:100%;
     padding:20px;
-    text-align:center;
     background:#0d0d0d;
+    color:#f1f1ef;
 }
 .footer-head{
-    font-size:1rem;
+    font-size:0.7rem;
     color:#f1f1ef;
+    text-align::center;
+}
+.footer-section{
+    max-width:95%;
+    margin-left::auto;
+    margin-right::auto;
+    display:flex;
+    justify-content:space-between;
+}
+.footer-list-1 li {
+    list-style-type::none;
+}
+.footer-list-1 li a{
+    text-decoration:none;
+    color:#f1f1ef;
+    font-size:0.5rem;
+}
+#agr{
+    border-bottom:3px solid white;
+    border-width:fit-content;
 }
 /*Responsive Designing*/
 @media screen and (max-width: 1311.5px){

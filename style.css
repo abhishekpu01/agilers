@@ -199,6 +199,9 @@ footer{
     background-color:#f1f1ef;
     margin-top:12px;
 }
+.bold{
+    font-weight::bolder;
+}
 /*Responsive Designing*/
 @media screen and (max-width: 1311.5px){
     .stage-section{

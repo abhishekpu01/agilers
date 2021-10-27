@@ -180,7 +180,7 @@ footer{
     margin-left:auto;
     margin-right:auto;
     display:flex;
-    justify-content:space-between;
+    justify-content:space-evenly;
 }
 .footer-list-1{
     list-style-type:none;
